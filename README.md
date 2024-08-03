@@ -1,4 +1,4 @@
-# YOLOv8 Training with Optimized GPU Memory Usage
+# YOLOv8 Training Code
 
 This repository contains code to train the YOLOv8 model with alternate way. 
 
