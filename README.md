@@ -1,6 +1,6 @@
 # YOLOv8 Training with Optimized GPU Memory Usage
 
-This repository contains code to train the YOLOv8 model with optimized GPU memory usage. The training script is designed to minimize GPU memory consumption by utilizing specific configurations and parameters.
+This repository contains code to train the YOLOv8 model with alternate way. 
 
 ## Prerequisites
 
