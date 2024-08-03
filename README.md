@@ -12,12 +12,24 @@ This repository contains code to train the YOLOv8 model with optimized GPU memor
 ## Setup
 
 ### 1. Clone the Repository
-### 1. Clone the Repository
-### 1. Clone the Repository
-### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/pamangie/yolov8training
-cd yolov8-training-optimized
+cd yolov8training
+```
+
+### 2. Grant Access to the datasets Directory
+```bash
+icacls "C:\path\to\yolov8training\datasets" /grant "%username%:F" /T
+```
+
+### 3. Train Your Model
+
+```bash
+Train the YOLOv8 Model
+python train.py
+```
+
+
 
 
