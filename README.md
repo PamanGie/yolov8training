@@ -20,6 +20,7 @@ cd yolov8training
 
 ### 2. Grant Access to the datasets Directory
 ```bash
+# Run your command prompt as administrator and run this script below:
 icacls "C:\path\to\yolov8training\datasets" /grant "%username%:F" /T
 ```
 
